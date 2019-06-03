@@ -10,5 +10,5 @@ def multiply():
             break
         else:
     	   print(n,'x',i,'=',n*i)
-    	
-print multiply()
+
+multiply()
