@@ -9,6 +9,6 @@ def multiply():
             print 'Sorry, integer value too high.'
             break
         else:
-    	   print(n,'x',i,'=',n*i)
+    	   print n,'x',i,'=',n*i
 
 multiply()
